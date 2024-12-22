@@ -85,6 +85,10 @@
 }
 
 @media screen and (max-width: 576px) {
+
+    .inner_top_bar {
+        padding: 0 20px !important;
+    }
     .more_fusion {
         margin: auto;
     }
